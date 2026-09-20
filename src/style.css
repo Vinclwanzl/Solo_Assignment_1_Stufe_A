@@ -294,3 +294,15 @@ code {
     border-right-color: var(--border);
   }
 }
+button {
+  font-family: var(--sans);
+  font-size: 20px;
+  color: black;
+  line-height: 135%;
+  letter-spacing: -0.24px;
+  border-radius: 6px;
+  padding: 8px 16px;
+  margin: 10px 500px;
+  border: black 1px solid;
+  cursor: pointer;
+}
